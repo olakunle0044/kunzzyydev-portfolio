@@ -581,6 +581,9 @@ header{
 .project-con{
   width: 460px;
 }
+.project-card{
+  gap: 20px;
+} 
 .project-img img{
   width: 250px;
   height: 200px;
