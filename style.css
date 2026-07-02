@@ -567,9 +567,6 @@ header{
 .right-section{
   display: none;
 }
-.left-content{
-  margin-right: 30px;
-}
 .about-h1{
   font-size: 20px;
   margin-bottom: 15px;
@@ -579,7 +576,7 @@ header{
  margin-bottom: 15px;
 }
 .project-con{
-  width: 460px;
+  width: 430px;
 }
 .project-card{
   gap: 20px;
