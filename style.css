@@ -579,7 +579,10 @@ header{
  font-size: 30px;
  margin-bottom: 15px;
 }
-.project-con{
+.project-con,
+.project-img{
+  width: 430px;
+}  {
   width: 430px;
 }
 .project-card{
